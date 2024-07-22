@@ -21,6 +21,7 @@ some suggested settings combinations for the `RandomForestRegressor`:
 | 5           | 8        | 50      | 1                   | 0.005       | 256           | False        | 10                 | variance | 75       | onethird              | 7    | 1.0             |
 
 
+XGB settings
 
 | Combination | max_depth | learning_rate | n_estimators | gamma | min_child_weight | subsample | colsample_bytree | reg_alpha | reg_lambda | random_state |
 |-------------|-----------|---------------|--------------|-------|------------------|-----------|------------------|-----------|------------|--------------|
